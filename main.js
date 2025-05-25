@@ -1,5 +1,5 @@
-export function multiply(a, b){
-  return (a * b)* 3;
+export function multiply(a, b) {
+  return a * b;
 }
 
 
