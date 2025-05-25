@@ -1,3 +1,5 @@
 const a = {
-    name: "nika"
+    name: "nika",
+    age: 27,
+    pet: "Elis"
 }
