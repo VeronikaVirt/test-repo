@@ -1,5 +1,5 @@
 const a = {
-    name: "nika",
+    secondName: "foo", 
     age: 27,
     pet: "Elis"
 }
