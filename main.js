@@ -1,8 +1,8 @@
-function multiply(a, b){
+export function multiply(a, b){
   return a * b;
 }
 
 
-function sumDigits(a,b) {
+export function sumDigits(a,b) {
     return a + b;
 }
